@@ -20,6 +20,7 @@
   <ItemGroup>
     <ProjectReference Include="..\01_CsvTable-izer\01_CsvTable-izer.csproj" />
     <ProjectReference Include="..\02_FizzBuzz\02_FizzBuzz.csproj" />
+    <ProjectReference Include="..\03_FromRomanNumerals\03_FromRomanNumerals.csproj" />
   </ItemGroup>
 
   <ItemGroup>
