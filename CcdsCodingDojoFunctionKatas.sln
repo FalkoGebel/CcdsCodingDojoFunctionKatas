@@ -16,7 +16,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_FizzBuzz", "02_FizzBuzz\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_FromRomanNumerals", "03_FromRomanNumerals\03_FromRomanNumerals.csproj", "{332CA4DD-4529-470E-86E6-36C7357C3D0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_HappyNumbers", "04_HappyNumbers\04_HappyNumbers.csproj", "{6ABFFD26-DB39-4FE8-89F8-67434CE67A00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_HappyNumbers", "04_HappyNumbers\04_HappyNumbers.csproj", "{6ABFFD26-DB39-4FE8-89F8-67434CE67A00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Loc", "05_Loc\05_Loc.csproj", "{742069E5-DA9E-4258-94FB-EE36BB10F36B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -44,6 +46,10 @@ Global
 		{6ABFFD26-DB39-4FE8-89F8-67434CE67A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6ABFFD26-DB39-4FE8-89F8-67434CE67A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6ABFFD26-DB39-4FE8-89F8-67434CE67A00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{742069E5-DA9E-4258-94FB-EE36BB10F36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742069E5-DA9E-4258-94FB-EE36BB10F36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742069E5-DA9E-4258-94FB-EE36BB10F36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742069E5-DA9E-4258-94FB-EE36BB10F36B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

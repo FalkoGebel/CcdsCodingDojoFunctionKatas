@@ -22,6 +22,7 @@
     <ProjectReference Include="..\02_FizzBuzz\02_FizzBuzz.csproj" />
     <ProjectReference Include="..\03_FromRomanNumerals\03_FromRomanNumerals.csproj" />
     <ProjectReference Include="..\04_HappyNumbers\04_HappyNumbers.csproj" />
+    <ProjectReference Include="..\05_Loc\05_Loc.csproj" />
   </ItemGroup>
 
   <ItemGroup>
