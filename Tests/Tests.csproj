@@ -23,6 +23,7 @@
     <ProjectReference Include="..\03_FromRomanNumerals\03_FromRomanNumerals.csproj" />
     <ProjectReference Include="..\04_HappyNumbers\04_HappyNumbers.csproj" />
     <ProjectReference Include="..\05_Loc\05_Loc.csproj" />
+    <ProjectReference Include="..\06_FilePathHelper\06_FilePathHelper.csproj" />
   </ItemGroup>
 
   <ItemGroup>
