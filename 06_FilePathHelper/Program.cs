@@ -1,4 +1,6 @@
-﻿internal class Program
+﻿using _06_FilePathHelper;
+
+internal class Program
 {
     private static void Main()
     {
@@ -6,7 +8,7 @@
 
         while (true)
         {
-            Console.Write("Enter a relative path to get the absolute path for it - 'q' to quit: ");
+            Console.Write("Enter a path to get the absolute path for it - 'q' to quit: ");
             string? input = Console.ReadLine();
 
             if (input == null)
@@ -15,7 +17,14 @@
             if (input == "q")
                 break;
 
-            // TODO - work with the input
+            try
+            {
+                Console.WriteLine($"Absolute path: {FilePathHelperLogic.GetAbsolutePath(input)}");
+            }
+            catch (ArgumentException ae)
+            {
+                Console.WriteLine(ae.Message);
+            }
         }
     }
 }
