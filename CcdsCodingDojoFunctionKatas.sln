@@ -20,7 +20,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_HappyNumbers", "04_Happy
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_Loc", "05_Loc\05_Loc.csproj", "{742069E5-DA9E-4258-94FB-EE36BB10F36B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_FilePathHelper", "06_FilePathHelper\06_FilePathHelper.csproj", "{859199D1-C15A-4E7E-883F-51C3EF667DD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_FilePathHelper", "06_FilePathHelper\06_FilePathHelper.csproj", "{859199D1-C15A-4E7E-883F-51C3EF667DD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_MailFollowup", "07_MailFollowup\07_MailFollowup.csproj", "{D176C5E1-C9F1-41E4-9A0A-16A240E7FED7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,6 +58,10 @@ Global
 		{859199D1-C15A-4E7E-883F-51C3EF667DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{859199D1-C15A-4E7E-883F-51C3EF667DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{859199D1-C15A-4E7E-883F-51C3EF667DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D176C5E1-C9F1-41E4-9A0A-16A240E7FED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D176C5E1-C9F1-41E4-9A0A-16A240E7FED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D176C5E1-C9F1-41E4-9A0A-16A240E7FED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D176C5E1-C9F1-41E4-9A0A-16A240E7FED7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
