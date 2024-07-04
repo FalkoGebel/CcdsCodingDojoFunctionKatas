@@ -1,4 +1,6 @@
-﻿internal class Program
+﻿using _07_MailFollowup;
+
+internal class Program
 {
     private static void Main()
     {
@@ -17,7 +19,7 @@
 
             try
             {
-                Console.WriteLine($"new date and time for {input}: ???");
+                Console.WriteLine($"new date and time from now for your input \"{input}\": {MailFollowupLogic.FollowupPointInTime(DateTime.Now, input)}");
             }
             catch (ArgumentException ae)
             {
