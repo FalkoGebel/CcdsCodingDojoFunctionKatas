@@ -9,3 +9,4 @@ In this repository I am presenting my solutions for the function katas of the [C
 + 05: [LOC](https://ccd-school.de/en/coding-dojo/function-katas/loc/ "LOC") -> [Done](/05_Loc/ "Project Folder")
 + 06: [File Path Helper](https://ccd-school.de/en/coding-dojo/function-katas/file-path-helper/ "File Path Helper") -> [Done](/06_FilePathHelper/ "Project Folder")
 + 07: [Mail Followup](https://ccd-school.de/en/coding-dojo/function-katas/mail-followup/ "Mail Followup") -> [Done](/07_MailFollowup/ "Project Folder")
++ 08: [ROT-13](https://ccd-school.de/en/coding-dojo/function-katas/rot-13/ "ROT-13") -> [Done](/08_Rot13/ "Project Folder")
