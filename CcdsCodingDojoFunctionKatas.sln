@@ -22,7 +22,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_Loc", "05_Loc\05_Loc.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_FilePathHelper", "06_FilePathHelper\06_FilePathHelper.csproj", "{859199D1-C15A-4E7E-883F-51C3EF667DD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_MailFollowup", "07_MailFollowup\07_MailFollowup.csproj", "{D176C5E1-C9F1-41E4-9A0A-16A240E7FED7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07_MailFollowup", "07_MailFollowup\07_MailFollowup.csproj", "{D176C5E1-C9F1-41E4-9A0A-16A240E7FED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Rot13", "08_Rot13\08_Rot13.csproj", "{85ABCFC5-B427-4D77-AE3F-E41158FE7958}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,6 +64,10 @@ Global
 		{D176C5E1-C9F1-41E4-9A0A-16A240E7FED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D176C5E1-C9F1-41E4-9A0A-16A240E7FED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D176C5E1-C9F1-41E4-9A0A-16A240E7FED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85ABCFC5-B427-4D77-AE3F-E41158FE7958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85ABCFC5-B427-4D77-AE3F-E41158FE7958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85ABCFC5-B427-4D77-AE3F-E41158FE7958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85ABCFC5-B427-4D77-AE3F-E41158FE7958}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

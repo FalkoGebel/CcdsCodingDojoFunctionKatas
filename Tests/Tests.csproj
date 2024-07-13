@@ -25,6 +25,7 @@
     <ProjectReference Include="..\05_Loc\05_Loc.csproj" />
     <ProjectReference Include="..\06_FilePathHelper\06_FilePathHelper.csproj" />
     <ProjectReference Include="..\07_MailFollowup\07_MailFollowup.csproj" />
+    <ProjectReference Include="..\08_Rot13\08_Rot13.csproj" />
   </ItemGroup>
 
   <ItemGroup>
