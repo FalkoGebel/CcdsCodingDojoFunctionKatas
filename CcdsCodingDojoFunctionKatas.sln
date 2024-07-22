@@ -26,7 +26,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07_MailFollowup", "07_MailF
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08_Rot13", "08_Rot13\08_Rot13.csproj", "{85ABCFC5-B427-4D77-AE3F-E41158FE7958}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_RussianPeasantMultiplication", "09_RussianPeasantMultiplication\09_RussianPeasantMultiplication.csproj", "{76E5295D-EAF9-4C68-9B7F-CDF99D395696}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09_RussianPeasantMultiplication", "09_RussianPeasantMultiplication\09_RussianPeasantMultiplication.csproj", "{76E5295D-EAF9-4C68-9B7F-CDF99D395696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_ChristmasTree", "10_ChristmasTree\10_ChristmasTree.csproj", "{4EBCA2D5-C7A8-49F4-BCB8-5D3590EF9561}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -74,6 +76,10 @@ Global
 		{76E5295D-EAF9-4C68-9B7F-CDF99D395696}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76E5295D-EAF9-4C68-9B7F-CDF99D395696}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76E5295D-EAF9-4C68-9B7F-CDF99D395696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EBCA2D5-C7A8-49F4-BCB8-5D3590EF9561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBCA2D5-C7A8-49F4-BCB8-5D3590EF9561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBCA2D5-C7A8-49F4-BCB8-5D3590EF9561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBCA2D5-C7A8-49F4-BCB8-5D3590EF9561}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
