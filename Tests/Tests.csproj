@@ -28,6 +28,7 @@
     <ProjectReference Include="..\08_Rot13\08_Rot13.csproj" />
     <ProjectReference Include="..\09_RussianPeasantMultiplication\09_RussianPeasantMultiplication.csproj" />
     <ProjectReference Include="..\10_ChristmasTree\10_ChristmasTree.csproj" />
+    <ProjectReference Include="..\11_WordWrap\11_WordWrap.csproj" />
   </ItemGroup>
 
   <ItemGroup>
