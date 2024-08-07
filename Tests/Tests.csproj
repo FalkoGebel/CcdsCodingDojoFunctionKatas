@@ -30,6 +30,7 @@
     <ProjectReference Include="..\10_ChristmasTree\10_ChristmasTree.csproj" />
     <ProjectReference Include="..\11_WordWrap\11_WordWrap.csproj" />
     <ProjectReference Include="..\12_ToDictionary\12_ToDictionary.csproj" />
+    <ProjectReference Include="..\13_ToRomanNumerals\13_ToRomanNumerals.csproj" />
   </ItemGroup>
 
   <ItemGroup>
