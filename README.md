@@ -15,3 +15,4 @@ In this repository I am presenting my solutions for the function katas of the [C
 + 11: [Word Wrap](https://ccd-school.de/coding-dojo/function-katas/textumbruch/ "Word Wrap") -> [Done](/11_WordWrap/ "Project Folder")
 + 12: [ToDictionary](https://ccd-school.de/en/coding-dojo/function-katas/todictionary/ "ToDictionary") -> [Done](/12_ToDictionary/ "Project Folder")
 + 13: [To Roman Numerals](https://ccd-school.de/en/coding-dojo/function-katas/to-roman-numerals/ "To Roman Numerals") -> [Done](/13_ToRomanNumerals/ "Project Folder")
++ 14: [Count Characters](https://ccd-school.de/en/coding-dojo/function-katas/count-characters/ "Count Characters") -> [Done](/14_CountCharacters/ "Project Folder")
