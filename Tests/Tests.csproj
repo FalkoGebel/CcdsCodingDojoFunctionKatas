@@ -31,6 +31,7 @@
     <ProjectReference Include="..\11_WordWrap\11_WordWrap.csproj" />
     <ProjectReference Include="..\12_ToDictionary\12_ToDictionary.csproj" />
     <ProjectReference Include="..\13_ToRomanNumerals\13_ToRomanNumerals.csproj" />
+    <ProjectReference Include="..\14_CountCharacters\14_CountCharacters.csproj" />
   </ItemGroup>
 
   <ItemGroup>
